@@ -1,0 +1,55 @@
+[class*="col"]{
+    padding: 1rem;
+    border: 2px solid #ffffff;
+    color: black;
+    text-align: center;
+}
+#col1{
+    background-color: #97C1A9;
+}
+
+#col2{
+    background-color: #B7CFB7;
+}
+
+#col3{
+    background-color: #CCE2CB;
+}
+
+#col4{
+    background-color: #EAEAEA;
+}
+
+#col5{
+    background-color: #C7DBDA;
+}
+
+#col6{
+    background-color: #FFE1E9;
+
+}
+
+#col7{
+    background-color: #FDD7C2;
+}
+
+#col8{
+    background-color: #F6EAC2;
+}
+
+
+#col9{
+    background-color: #FFB8B1;
+}
+
+#col10{
+    background-color: #FFDAC1;
+}
+
+#col11{
+    background-color: #E2F0CB;
+}
+
+#col12{
+    background-color: #B5EAD6;
+}
